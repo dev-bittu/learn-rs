@@ -1,0 +1,7 @@
+[package]
+name = "rustprog"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# basic_lib = { path = "../basic_lib" }

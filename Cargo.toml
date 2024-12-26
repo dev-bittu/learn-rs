@@ -1,0 +1,3 @@
+[workspace]
+members = ["rustprog", "basic_lib", "minigrep", "livecli"]
+resolver = "2"
